@@ -2,7 +2,7 @@
 - 👀 I’m interested in Discord bot making thing
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on My friend
-- 📫 How to reach me ... dm me EggMaster#0824
+- 📫 How to reach me ... dm me EggMaster#0864
 
 <!---
 D1v3-gg/D1v3-gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
